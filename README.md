@@ -1,4 +1,4 @@
 # bioSite
-# H1 WEB 200 Web Development with HTML and CSS
+# H1 WEB 200 Fundamentals of Web Development
 # H2 Contributors
 * Wendy Rzechula
